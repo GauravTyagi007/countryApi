@@ -13,3 +13,13 @@ Run Instructions
 
 3.To run the React project.
   $ npm start
+
+SCREENSHOTS:-
+![image](https://user-images.githubusercontent.com/64189121/132038425-664f9979-914e-43b4-9490-841a2a6286b6.png)
+
+
+
+
+
+
+
